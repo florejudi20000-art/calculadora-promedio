@@ -1,3 +1,6 @@
 git remoto agregar origen https://github.com/florejudi20000-art/calculadora-promedio.git
  git rama -M principal 
 git push -u origen principal
+
+def calcular_promedio(a, b, c):
+    return (a + b + c) / 3
